@@ -3,4 +3,5 @@
 Bem vindos!!! :wave:
 
 - Receita_1
-- 
+
+- Receita 2
